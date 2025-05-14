@@ -27,20 +27,21 @@ Research experience
   * Project: "Paternity analysis in a harvestman species showing alternative mating tactics: whose morph sire more offspring?"
   * Mentored by [Dr. Mercedes Burns](https://scholar.google.com/citations?user=cTGdXOwAAAAJ&hl=en) in molecular and bioinformatic analyses
 
-* Ph.D student at the SexLab, Universidade de São Paulo, Brazil, 2020-current
+* Ph.D student at the SexLab, Universidade de São Paulo (USP), Brazil, 2020-current
   * Project: "Parental care and sexual selection in harvestmen from the Atlantic Forest"
   * Mentored by [Dr. Glauco Machado](https://scholar.google.com/citations?hl=en&user=FMfUMyMAAAAJ&view_op=list_works&sortby=pubdate)
   
 Grants and Fellowships
 ======
-* 2025            Latin American Travel Award, Animal Behavior Society ($1,400)
-* 2025            Travel Award, American Arachnology Society ($800)
-* 2024-current    12-month internship at University of Hull, UK, by São Paulo Research Foundation (FAPESP)
-* 2023-2024       6-month internship at UMBC, USA, by [CAPES - PrInt](https://sites.usp.br/print/)
-* 2024            American Research Fund Grant, American Arachnology Society ($750,00)
-* 2022            Latin American Travel Award, Animal Behavior Society ($500)
-* 2022-current    Ph.D scholarship, São Paulo Research Foundation [(FAPESP)](https://bv.fapesp.br/pt/pesquisador/721096/lais-aline-grossel/)
-* 2020-2022       Ph.D scholarship, Coordination for the Improvement of Higher Education Personnel [(CAPES)](https://www.gov.br/capes/pt-br)
+* 2025: Latin American Travel Award, Animal Behavior Society ($1,400)
+* 2025: Travel Award, American Arachnology Society ($800)
+* 2024-current: 12-month internship at University of Hull, UK, São Paulo Research Foundation (FAPESP)
+* 2024: American Research Fund Grant, American Arachnology Society ($750,00)
+* 2023-2024: 6-month internship at UMBC, USA, Institutional Program for Internationalization (PrInt - CAPES)
+* 2022: Latin American Travel Award, Animal Behavior Society ($500)
+* 2022-current: Ph.D scholarship, São Paulo Research Foundation [(FAPESP)](https://bv.fapesp.br/pt/pesquisador/721096/lais-aline-grossel/)
+* 2020-2022: Ph.D scholarship, Coordination for the Improvement of Higher Education Personnel (CAPES)
+* 2017-2019: M.S. scholarship, National Council for Scientific and Technological Development (CNPq)
 
 Publications
 ======
