@@ -2,10 +2,10 @@
 title: "8. Effects of nest-site availability on male–male competition and the foraging costs of egg attendance in an arachnid with exclusive paternal care"
 collection: publications
 category: manuscripts
-permalink: /publication/Grossel-et-al._2024
+permalink: /publication/Grossel-et-al_2024
 date: 2024-01-01
 venue: 'Ethology'
-paperurl: 'http://laisgrossel.github.io/files/Grossel-et-al._2024.pdf'
+paperurl: 'http://laisgrossel.github.io/files/Grossel-et-al_2024.pdf'
 citation: 'Grossel, L.A., Werneck, R.M., Machado, G. (2024). &quot;Effects of nest-site availability on male–male mompetition and the foraging costs of egg attendance in an arachnid with exclusive paternal care.&quot; <i>Ethology</i>. 130(12).'
 ---
 
