@@ -6,7 +6,7 @@ permalink: /publication/Grossel&Machado2025
 excerpt: "In this work, we tested the essential male care model in Iporangaia pustulosa, a harvestman with exclusive paternal care. Using a field experiment, we manipulated males' body condition and gland status (pheromone-releasing or blocked). Well-fed males with unblocked glands received more eggs and had higher fitness. Our results suggest that sexual advertisement is condition-dependent and enhances male attractiveness, supporting the model’s predictions and highlighting the link between body condition, pheromones, and mating success."
 date: 2025
 venue: 'Behavioral Ecology and Sociobiology'
-paperurl: 'http://laisgrossel.github.io/files/Grossel&Machado_2025.pdf'
+paperurl: 'files/Grossel&Machado_2025.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
