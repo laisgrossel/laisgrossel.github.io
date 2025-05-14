@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Laís A. Grossel"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Behavioural Ecologist"
   location         : "Hull, UK"
   employer         : "Universidade de São Paulo, BR"
@@ -42,9 +42,7 @@ author:
 
   # Social media
   instagram        : "laisgrossel"
-  linkedin         : # Username
   twitter          : "laisgrossel"
-  youtube          : # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
