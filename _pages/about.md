@@ -12,4 +12,4 @@ I am a Brazilian behavioural ecologist interested in Animal Behaviour, including
 
 Feel free to contact me for any question of request.
 
-(/images/opiliones.jpg)
+![](/images/opiliones.jpg)
