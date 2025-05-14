@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D candidate in Zoology, Universidade de São Paulo, BR
+* MBA in Data Science and Analytics, Universidade de São Paulo, BR, 2024
+* M.S. in Zoology, Universidade Federal do Paraná, BR, 2019
+* B.S. in Biology, Universidade do Contestado, BR, 2016
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Ph.D intern at the [Burns Arthropod Evolution (BAE) Lab](https://burnslab.umbc.edu/), University of Maryland, Baltimore County (UMBC), 2023-2024
+  * Project: "Paternity analysis in a harvestman species showing alternative mating tactics: whose morph sire more offspring?"
+  * Funding by [CAPES - PrInt](https://sites.usp.br/print/) - 6-months scholarship
 
 * Fall 2015: Research Assistant
   * GitHub University
