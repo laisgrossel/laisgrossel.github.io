@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Female mate choice in an arachnid with exclusive paternal care: males in good condition have higher mating success, but only if they can advertise it"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+permalink: /files/Grossel
+excerpt: 'In this work, we tested the essential male care model in Iporangaia pustulosa, a harvestman with exclusive paternal care. Using a field experiment, we manipulated males' body condition and gland status (pheromone-releasing or blocked). Well-fed males with unblocked glands received more eggs and had higher fitness. Our results suggest that sexual advertisement is condition-dependent and enhances male attractiveness, supporting the model’s predictions and highlighting the link between body condition, pheromones, and mating success.'
+date: 2025
+venue: 'Behavioral Ecology and Sociobiology'
+paperurl: 'http://laisgrossel.github.io/files/Grossel & Machado 2025.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
