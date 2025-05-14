@@ -1,5 +1,5 @@
 ---
-title: "Female mate choice in an arachnid with exclusive paternal care: males in good condition have higher mating success, but only if they can advertise it"
+title: "9. Female mate choice in an arachnid with exclusive paternal care: males in good condition have higher mating success, but only if they can advertise it"
 collection: publications
 category: manuscripts
 permalink: /publication/Grossel&Machado2025
@@ -7,6 +7,6 @@ excerpt: "In this work, we tested the essential male care model in Iporangaia pu
 date: 2025
 venue: 'Behavioral Ecology and Sociobiology'
 paperurl: 'files/Grossel&Machado_2025.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Grossel, L. A., Machado, G. (2025). &quot;Female mate choice in an arachnid with exclusive paternal care: males in good condition have higher mating success, but only if they can advertise it 1.&quot; <i>Behavioral Ecology and Sociobiology 1</i>. 79(35).'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
