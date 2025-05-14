@@ -3,7 +3,7 @@ title: "Female mate choice in an arachnid with exclusive paternal care: males in
 collection: publications
 category: manuscripts
 permalink: /files/Grossel
-excerpt: 'In this work, we tested the essential male care model in Iporangaia pustulosa, a harvestman with exclusive paternal care. Using a field experiment, we manipulated males' body condition and gland status (pheromone-releasing or blocked). Well-fed males with unblocked glands received more eggs and had higher fitness. Our results suggest that sexual advertisement is condition-dependent and enhances male attractiveness, supporting the model’s predictions and highlighting the link between body condition, pheromones, and mating success.'
+excerpt: "In this work, we tested the essential male care model in Iporangaia pustulosa, a harvestman with exclusive paternal care. Using a field experiment, we manipulated males' body condition and gland status (pheromone-releasing or blocked). Well-fed males with unblocked glands received more eggs and had higher fitness. Our results suggest that sexual advertisement is condition-dependent and enhances male attractiveness, supporting the model’s predictions and highlighting the link between body condition, pheromones, and mating success."
 date: 2025
 venue: 'Behavioral Ecology and Sociobiology'
 paperurl: 'http://laisgrossel.github.io/files/Grossel & Machado 2025.pdf'
