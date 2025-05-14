@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "Hull, UK"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Laís A. Grossel"
 title_separator          : "-"
 name                     : &name "Laís A. Grossel"
 description              : &description "Behavioural Ecologist"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Laís A. Grossel"
   pronouns         : # example: "she/her"  
   bio              : "Behavioural Ecologist"
   location         : "Hull, UK"
@@ -32,15 +32,10 @@ author:
   email            : "laisgrossel@gmail.com" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=Ltk1w4UAAAAJ&hl=pt-BR"
-  impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-4526-3763"
-  semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Lais-Grossel"
-  scopus           : # URL
 
   # Repositories and software development
   github           : "laisgrossel"   
