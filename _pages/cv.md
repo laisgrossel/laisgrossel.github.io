@@ -19,15 +19,15 @@ Education
 
 Research experience
 ======
-* Ph.D intern at the [Wild Ecology and Behaviour Group](https://wildecolhull.netlify.app/), University of Hull, United Kingdom, 2024-current
+* Ph.D intern at the [Wild Ecology and Behaviour Group](https://wildecolhull.netlify.app/), University of Hull, UK, 2024-current
   * Project: "In search of the first caregiver: the evolution of parental care in Opiliones"
   * Mentored by [Dr. James D.J. Gilbert](https://scholar.google.com/citations?hl=en&user=FfSty4EAAAAJ) in phylogenetic comparative analyses
 
-* Ph.D intern at the [Burns Arthropod Evolution (BAE) Lab](https://burnslab.umbc.edu/), University of Maryland, Baltimore County (UMBC), United States, 2023-2024
+* Ph.D intern at the [Burns Arthropod Evolution (BAE) Lab](https://burnslab.umbc.edu/), University of Maryland, Baltimore County (UMBC), USA, 2023-2024
   * Project: "Paternity analysis in a harvestman species showing alternative mating tactics: whose morph sire more offspring?"
   * Mentored by [Dr. Mercedes Burns](https://scholar.google.com/citations?user=cTGdXOwAAAAJ&hl=en) in molecular and bioinformatic analyses
 
-* Ph.D student at the SexLab, Universidade de São Paulo (USP), Brazil, 2020-current
+* Ph.D student at the SexLab, Universidade de São Paulo (USP), BR, 2020-current
   * Project: "Parental care and sexual selection in harvestmen from the Atlantic Forest"
   * Mentored by [Dr. Glauco Machado](https://scholar.google.com/citations?hl=en&user=FMfUMyMAAAAJ&view_op=list_works&sortby=pubdate)
   
