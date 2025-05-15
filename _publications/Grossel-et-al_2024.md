@@ -1,5 +1,5 @@
 ---
-title: "(8) Effects of nest-site availability on male–male competition and the foraging costs of egg attendance in an arachnid with exclusive paternal care"
+title: "Effects of nest-site availability on male–male competition and the foraging costs of egg attendance in an arachnid with exclusive paternal care"
 collection: publications
 category: manuscripts
 permalink: /publication/Grossel-et-al_2024
