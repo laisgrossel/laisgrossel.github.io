@@ -2,7 +2,7 @@
 title: "Habitat Drives Body Size Evolution in Mustelidae (Mammalia: Carnivora)"
 collection: publications
 category: manuscripts
-permalink: /publication/Grossel-Machado-2025
+permalink: /publication/Rodrigues-et-al_2023
 date: 2023-06-01
 venue: 'Evolutionary Biology'
 paperurl: 'http://laisgrossel.github.io/files/Rodrigues-et-al_2023.pdf'
