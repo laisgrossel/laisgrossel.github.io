@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Prophylactic measures to mitigate the issue of zoonoses caused by stray dogs on the streets of the Faxinal neighborhood, Mafra–SC (in Portuguese)"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/Grossel-Povaluk_2016
+date: 2016-12-16
+venue: 'Saúde e meio ambiente: revista interdisciplinar'
+paperurl: 'http://laisgrossel.github.io/files/Grossel-Povaluk_2016.pdf'
+citation: 'Grossel, L.A., Povaluk, M. (2016). &quot;Medidas profiláticas para amenizar a questão das zoonoses ocasionadas por cães abandonados nas ruas do bairro Faxinal, Mafra–SC.&quot; <i>Saúde e meio ambiente: revista interdisciplinar</i>. 5(2).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This study aimed to propose preventive measures against zoonoses caused by stray dogs in the Faxinal neighborhood of Mafra–SC. Fieldwork identified the presence of dogs, probable zoonoses, and their impact on residents. Interviews and surveys showed limited awareness of zoonoses and that not all street dogs are abandoned. An action-based campaign distributed informative materials to the community. The project promoted public awareness and animal welfare, contributing to improved health for both dogs and humans.
