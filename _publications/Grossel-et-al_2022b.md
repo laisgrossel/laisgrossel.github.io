@@ -2,10 +2,10 @@
 title: "Report of a protozoan of the phylum Ciliophora compatible with Balantioides coli in feces of white-lipped peccaries in Brazil"
 collection: publications
 category: manuscripts
-permalink: /publication/Grossel-et-al_2022
+permalink: /publication/Grossel-et-al_2022b
 date: 2022-09-16
 venue: 'Boletim do Museu Paraense Emílio Goeldi-Ciências Naturais'
-paperurl: '(http://laisgrossel.github.io/files/Grossel-et-al_2022.pdf)'
+paperurl: '(http://laisgrossel.github.io/files/Grossel-et-al_2022b.pdf)'
 citation: 'Grossel, L.A., Javorouski, M.L., Shimada, M.K. (2022). &quot;Report of a protozoan of the phylum Ciliophora compatible with Balantioides coli in feces of white-lipped peccaries in Brazil.&quot; <i>Boletim do Museu Paraense Emílio Goeldi-Ciências Naturais</i>. 17(2).'
 ---
 
