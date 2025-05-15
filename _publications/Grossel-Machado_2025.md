@@ -1,5 +1,5 @@
 ---
-title: "(9) Female mate choice in an arachnid with exclusive paternal care: males in good condition have higher mating success, but only if they can advertise it"
+title: "Female mate choice in an arachnid with exclusive paternal care: males in good condition have higher mating success, but only if they can advertise it"
 collection: publications
 category: manuscripts
 permalink: /publication/Grossel-Machado-2025
