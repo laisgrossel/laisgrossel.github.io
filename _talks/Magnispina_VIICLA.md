@@ -9,4 +9,4 @@ location: "Bogotá, Colombia"
 ---
 
 You can check more about this work [here](http://laisgrossel.github.io/files/Grossel-et-al_2024.pdf)<br>
-More about the conference [here](https://viiclaracnologia.wixsite.com/viicla?lang=en)
+More information about the conference [here](https://viiclaracnologia.wixsite.com/viicla?lang=en)
