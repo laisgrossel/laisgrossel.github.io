@@ -1,5 +1,5 @@
 ---
-title: "“Effects of nest-site availability on male-male competition and costs associated with egg attendance in a resource-defense harvestman"
+title: "Effects of nest-site availability on male-male competition and costs associated with egg attendance in a resource-defense harvestman"
 collection: talks
 type: "Conference talk"
 permalink: http://laisgrossel.github.io/files/Grossel-et-al_2024.pdf
