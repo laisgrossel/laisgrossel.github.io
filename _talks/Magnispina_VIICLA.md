@@ -8,4 +8,5 @@ date: 2024-06-16
 location: "Bogotá, Colombia"
 ---
 
-You can check more about this work acessing our publication [here](http://laisgrossel.github.io/files/Grossel-et-al_2024.pdf)
+You can check more about this work [here](http://laisgrossel.github.io/files/Grossel-et-al_2024.pdf)
+More about the conference [here](https://viiclaracnologia.wixsite.com/viicla?lang=en)
