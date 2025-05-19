@@ -8,5 +8,5 @@ location: "Montevideo, Uruguay"
 ---
 
 You can check more about this work [here](http://laisgrossel.github.io/files/Grossel-Machado_2025.pdf)<br>
-More information about the [conference] (https://arachnology.org/22nd-ica-2023.html)
+More information about the conference [here](https://arachnology.org/22nd-ica-2023.html)
 
