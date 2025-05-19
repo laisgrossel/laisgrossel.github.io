@@ -7,5 +7,6 @@ date: 2023-03-11
 location: "Montevideo, Uruguay"
 ---
 
-[More information about the conference here](https://arachnology.org/22nd-ica-2023.html)
-You can check more this work about [here](http://laisgrossel.github.io/files/Grossel-Machado_2025.pdf)
+You can check more about this work [here](http://laisgrossel.github.io/files/Grossel-Machado_2025.pdf)
+More information about the conference [here](https://arachnology.org/22nd-ica-2023.html)
+
