@@ -1,7 +1,7 @@
 ---
 title: "Scientific expeditions and vertebrate sampling techniques"
 collection: teaching
-type: "workshop"
+type: "Workshop"
 venue: "12nd Zoology Summer Course"
 date: 2024-01-18
 location: "Instituto de Biociências, Universidade de São Paulo"
