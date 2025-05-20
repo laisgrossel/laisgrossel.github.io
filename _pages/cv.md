@@ -82,5 +82,5 @@ Service and leadership
 * 2022: Graduate Course Teaching Assistantship, [Planning and Data Analysis in Ecology](http://labtrop.ib.usp.br/doku.php?id=cursos:planeco:start).
 * 2021-2023: Management Committee for Student Appeals, Graduate Program of Zoology, Instituto de Biociências, Universidade de São Paulo, SP, Brazil
 * 2021-2022: Graduate student delegate, Graduate Program of Zoology, Instituto de Biociências, Universidade de São Paulo, SP, Brazil
-* 2019: Organizing Committee of the [1st Zoology Winter Course](https://doity.com.br/cizooufpr), Graduate Program of Zoology, Universidade Federal do Paraná, PR, Brazil
+* 2019: Organizing Committee of the 1st [Zoology Winter Course](https://doity.com.br/cizooufpr), Graduate Program of Zoology, Universidade Federal do Paraná, PR, Brazil
 * 2018: Organizing Committee of the [4th Zoology Symposium](https://bio.ufpr.br/blog/noticias/ppg-zoologia-promove-intercambio-cientifico-em-simposio/), Graduate Program of Zoology, Universidade Federal do Paraná, PR, Brazil
