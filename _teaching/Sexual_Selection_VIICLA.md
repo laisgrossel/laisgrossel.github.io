@@ -1,7 +1,7 @@
 ---
 title: "Theoretical-practical course on Sexual Selection"
 collection: teaching
-type: "workshop pre-conference"
+type: "Workshop pre-conference"
 venue: "7th Latin American Congress of Arachnology"
 date: 2023-02-14
 location: "virtual"
