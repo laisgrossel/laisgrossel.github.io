@@ -8,5 +8,5 @@ location: "virtual"
 ---
 
 In this theoretical and practical course, we studied the complex process of sexual selection. Specifically, we examined the evolution of sex and secondary sexual characteristics, the processes of intra- and intersexual selection, as well as post-copulatory sexual selection mechanisms such as cryptic female choice and sperm competition.
-Each of the five theoretical classes was taught by a specialist in the topic and was complemented by a practical class led by Professor Dr. Glauco Machado.<b>
+Each of the five theoretical classes was taught by a specialist in the topic and was complemented by a practical class led by Professor Dr. Glauco Machado.<br>
 [This workshop](https://viiclaracnologia.wixsite.com/viicla/seleccionsexual?lang=pt) was conducted in partnership with Erika Marques, Solimary García, Diego Solano Brenes, Renato Chaves e Glauco Machado.
