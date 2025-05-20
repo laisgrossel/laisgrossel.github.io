@@ -33,15 +33,15 @@ Research experience
   
 Grants and Fellowships
 ======
-* 2025&emsp;&emsp;&emsp; Latin American Travel Award, Animal Behavior Society ($1,400)
-* 2025&emsp;&emsp;&emsp; Travel Award, American Arachnology Society ($800)
-* 2024-current&emsp; 12-month internship at University of Hull, UK, São Paulo Research Foundation (FAPESP)
-* 2024&emsp;&emsp;&emsp; American Research Fund Grant, American Arachnology Society ($750,00)
-* 2023-2024&emsp; 6-month internship at UMBC, USA, Institutional Program for Internationalization (PrInt - CAPES)
-* 2022&emsp;&emsp;&emsp; Latin American Travel Award, Animal Behavior Society ($500)
-* 2022-current&emsp; Ph.D scholarship, São Paulo Research Foundation [(FAPESP)](https://bv.fapesp.br/pt/pesquisador/721096/lais-aline-grossel/)
-* 2020-2022&emsp; Ph.D scholarship, Coordination for the Improvement of Higher Education Personnel (CAPES)
-* 2017-2019&emsp; M.S. scholarship, National Council for Scientific and Technological Development (CNPq)
+* 2025: Latin American Travel Award, Animal Behavior Society ($1,400)
+* 2025: Travel Award, American Arachnology Society ($800)
+* 2024-current: 12-month internship at University of Hull, UK, São Paulo Research Foundation (FAPESP)
+* 2024: American Research Fund Grant, American Arachnology Society ($750,00)
+* 2023-2024: 6-month internship at UMBC, USA, Institutional Program for Internationalization (PrInt - CAPES)
+* 2022: Latin American Travel Award, Animal Behavior Society ($500)
+* 2022-current: Ph.D scholarship, São Paulo Research Foundation [(FAPESP)](https://bv.fapesp.br/pt/pesquisador/721096/lais-aline-grossel/)
+* 2020-2022: Ph.D scholarship, Coordination for the Improvement of Higher Education Personnel (CAPES)
+* 2017-2019: M.S. scholarship, National Council for Scientific and Technological Development (CNPq)
 
 Publications
 ======
@@ -69,12 +69,12 @@ Outreach
   
 Service and leadership
 ======
-* 2024&emsp;&emsp; Organizing Committee of the 12nd Zoology Summer Course, Graduate Program of Zoology, Instituto de Biociências, Universidade de São Paulo, SP, Brazil
-* 2023&emsp;&emsp; Graduate Course Teaching Assistantship, Animal Behavior
-* 2022&emsp;&emsp; Organizing Committee of the 10th Zoology Summer Course, Graduate Program of Zoology, Instituto de Biociências, Universidade de São Paulo, SP, Brazil
-* 2022&emsp;&emsp; Organizing Committee of the weekly seminar [EcoEncontros](https://ecoencontros.ib.usp.br/), Graduate Program of Ecology, Instituto de Biociências, Universidade de São Paulo, SP, Brazil
-* 2022&emsp;&emsp; Graduate Course Teaching Assistantship, [Planning and Data Analysis in Ecology](http://labtrop.ib.usp.br/doku.php?id=cursos:planeco:start).
-* 2021-2023&emsp; Management Committee for Student Appeals, Graduate Program of Zoology, Instituto de Biociências, Universidade de São Paulo, SP, Brazil
-* 2021-2022&emsp; Graduate student delegate, Graduate Program of Zoology, Instituto de Biociências, Universidade de São Paulo, SP, Brazil
-* 2019&emsp;&emsp; Organizing Committee of the 1st Zoology Winter Course, Graduate Program of Zoology, Universidade Federal do Paraná, PR, Brazil
-* 2018&emsp;&emsp; Organizing Committee of the 4th Zoology Symposium, Graduate Program of Zoology, Universidade Federal do Paraná, PR, Brazil
+* 2024: Organizing Committee of the 12nd Zoology Summer Course, Graduate Program of Zoology, Instituto de Biociências, Universidade de São Paulo, SP, Brazil
+* 2023: Graduate Course Teaching Assistantship, Animal Behavior
+* 2022: Organizing Committee of the 10th Zoology Summer Course, Graduate Program of Zoology, Instituto de Biociências, Universidade de São Paulo, SP, Brazil
+* 2022: Organizing Committee of the weekly seminar [EcoEncontros](https://ecoencontros.ib.usp.br/), Graduate Program of Ecology, Instituto de Biociências, Universidade de São Paulo, SP, Brazil
+* 2022: Graduate Course Teaching Assistantship, [Planning and Data Analysis in Ecology](http://labtrop.ib.usp.br/doku.php?id=cursos:planeco:start).
+* 2021-2023: Management Committee for Student Appeals, Graduate Program of Zoology, Instituto de Biociências, Universidade de São Paulo, SP, Brazil
+* 2021-2022: Graduate student delegate, Graduate Program of Zoology, Instituto de Biociências, Universidade de São Paulo, SP, Brazil
+* 2019: Organizing Committee of the 1st Zoology Winter Course, Graduate Program of Zoology, Universidade Federal do Paraná, PR, Brazil
+* 2018: Organizing Committee of the 4th Zoology Symposium, Graduate Program of Zoology, Universidade Federal do Paraná, PR, Brazil
