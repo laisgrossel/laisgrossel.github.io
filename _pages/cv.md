@@ -60,7 +60,21 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Outreach
+======
+  <ul>{% for post in site.outreach reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2024&emsp; Organizing Committee of the 12nd Zoology Summer Course, Graduate Program of Zoology, Instituto de Biociências, Universidade de São Paulo, SP, Brazil
+* 2023: Graduate Course Teaching Assistantship, Animal Behavior
+* 2022: Organizing Committee of the 10th Zoology Summer Course, Graduate Program of Zoology, Instituto de Biociências, Universidade de São Paulo, SP, Brazil
+* 2022: Organizing Committee of the weekly seminar [EcoEncontros](https://ecoencontros.ib.usp.br/), Graduate Program of Ecology, Instituto de Biociências, Universidade de São Paulo, SP, Brazil
+* 2022: Graduate Course Teaching Assistantship, [Planning and Data Analysis in Ecology](http://labtrop.ib.usp.br/doku.php?id=cursos:planeco:start).
+* 2021-2023: Management Committee for Student Appeals, Graduate Program of Zoology, Instituto de Biociências, Universidade de São Paulo, SP, Brazil
+* 2021-2022: Graduate student delegate, Graduate Program of Zoology, Instituto de Biociências, Universidade de São Paulo, SP, Brazil
+* 2019: Organizing Committee of the 1st Zoology Winter Course, Graduate Program of Zoology, Universidade Federal do Paraná, PR, Brazil
+* 2018: Organizing Committee of the 4th Zoology Symposium, Graduate Program of Zoology, Universidade Federal do Paraná, PR, Brazil
