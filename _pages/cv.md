@@ -34,9 +34,9 @@ Research experience
 Grants and Fellowships
 ======
 * 2025: Latin American Travel Award, Animal Behavior Society ($1,400)
-* 2025: Travel Award, American Arachnology Society ($800)
+* 2025: Travel Award, American Arachnological Society ($800)
 * 2024-current: 12-month internship at University of Hull, UK, São Paulo Research Foundation (FAPESP)
-* 2024: American Research Fund Grant, American Arachnology Society ($750,00)
+* 2024: American Research Fund Grant, American Arachnological Society ($750,00)
 * 2023-2024: 6-month internship at UMBC, USA, Institutional Program for Internationalization (PrInt - CAPES)
 * 2022: Latin American Travel Award, Animal Behavior Society ($500)
 * 2022-current: Ph.D scholarship, São Paulo Research Foundation [(FAPESP)](https://bv.fapesp.br/pt/pesquisador/721096/lais-aline-grossel/)
@@ -66,6 +66,12 @@ Outreach
   <ul>{% for post in site.outreach reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Professional Membership
+======
+* [Animal Behavior Society](https://www.animalbehaviorsociety.org/web/index.php)
+* [International Society of Arachnology](https://arachnology.org/)
+* [American Arachnological Society](https://www.americanarachnology.org/home/)
   
 Service and leadership
 ======
