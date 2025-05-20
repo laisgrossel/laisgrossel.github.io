@@ -3,7 +3,7 @@ title: "Animal Behavior"
 collection: teaching
 type: "Workshop"
 venue: "12nd Zoology Summer Course"
-date: 2024-18-01
+date: 2024-01-18
 location: "Instituto de Biociências, Universidade de São Paulo"
 ---
 
