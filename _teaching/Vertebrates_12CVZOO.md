@@ -13,4 +13,4 @@ Amphibians/Reptiles: pitfall traps with drift fences, funnel traps, glue traps, 
 Birds: point counts, mist nets, banding (marking), and telemetry.<br>
 Mammals: transects, camera traps, live traps (cages, pitfalls, and mist nets), footprint and hair traps, marking, and telemetry.<br>
 The explanation of the methods was provided through theoretical presentations and practical activities (adapted to remote format when possible), during which we discussed the advantages and limitations of each technique.<br>
-This workshop was conducted in partnership with Ana Beatriz Navarro e Weverton Azevedo.
+You can access the Mammals class [here](http://laisgrossel.github.io/files/Mamíferos_XIICVZoo.pdf), in Portuguese. This workshop was conducted in partnership with Ana Beatriz Navarro e Weverton Azevedo.
