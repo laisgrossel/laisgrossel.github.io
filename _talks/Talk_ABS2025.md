@@ -7,5 +7,5 @@ date: 2025-07-11
 location: "Baltimore, United States"
 ---
 
-You can check my presentation here [here](https://www.youtube.com/watch?v=TqGkUnhAUe0)<br>
+You can check my presentation [here](https://www.youtube.com/watch?v=TqGkUnhAUe0)<br>
 More information about the conference [here](https://www.animalbehaviorsociety.org/2025/index.php)
