@@ -27,7 +27,7 @@ Research experience
   * Project: "Paternity analysis in a harvestman species showing alternative mating tactics: whose morph sire more offspring?"
   * Mentored by [Dr. Mercedes Burns](https://scholar.google.com/citations?user=cTGdXOwAAAAJ&hl=en) in molecular and bioinformatic analyses
 
-* Ph.D student at the SexLab, Universidade de São Paulo (USP), BR, 2020-current
+* Ph.D student at the [SexLab](https://g-spotlab.weebly.com/), Universidade de São Paulo (USP), BR, 2020-current
   * Project: "Parental care and sexual selection in harvestmen from the Atlantic Forest"
   * Mentored by [Dr. Glauco Machado](https://scholar.google.com/citations?hl=en&user=FMfUMyMAAAAJ&view_op=list_works&sortby=pubdate)
   
