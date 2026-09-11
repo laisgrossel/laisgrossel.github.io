@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "São Paulo, Brazil"
+locale                   : "en-US"
 site_theme               : "mint"
 title                    : "Laís A. Grossel"
 title_separator          : "-"
