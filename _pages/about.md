@@ -1,6 +1,5 @@
 ---
 layout: single
-title: "Laís A. Grossel"
 permalink: /
 author_profile: true
 redirect_from:
