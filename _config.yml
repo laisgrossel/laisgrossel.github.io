@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Hull, UK"
+locale                   : "São Paulo, Brazil"
 site_theme               : "default"
 title                    : "Laís A. Grossel"
 title_separator          : "-"
 name                     : &name "Laís A. Grossel"
-description              : &description "Behavioural Ecologist"
+description              : &description "Evolutionary biologist"
 url                      : https://laisgrossel.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "laisgrossel.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Laís A. Grossel"
   bio              : "Behavioural Ecologist"
-  location         : "Hull, UK"
+  location         : "São Paulo, Brazil"
   employer         : "Universidade de São Paulo, BR"
   email            : "laisgrossel@gmail.com" 
 
