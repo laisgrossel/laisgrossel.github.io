@@ -2,7 +2,7 @@
   MINT THEME - LIGHT VERSION
   ========================================================================== */
 /* Color codes used for the theme */
-$primary-color              : #1a2421;
+$primary-color              : #2d4a3e;
 $dark-primary-color         : mix(#000, $primary-color, 40%);
 $darker-primary-color       : mix(#000, $primary-color, 60%);
 $light-primary-color        : mix(#fff, $primary-color, 50%);
@@ -10,18 +10,18 @@ $lighter-primary-color      : mix(#fff, $primary-color, 90%);
 $background                 : #f3f6f6;
 $background-light           : #ffffff;
 $background-lighter         : #fafbfb;
-$text                       : #1a2421;
+$text                       : #2d4a3e;
 $text-muted                 : #5c6d6a;
-$link                       : #1a2421;
+$link                       : #2d4a3e;
 $link-dark                  : mix(#000, $link, 25%);
 $link-light                 : mix(#fff, $link, 25%);
 $footer                     : #a8e6cf;
-$border                     : mix(#fff, #1a2421, 75%);
-$border-dark                : mix(#fff, #1a2421, 60%);
+$border                     : mix(#fff, #2d4a3e, 75%);
+$border-dark                : mix(#fff, #2d4a3e, 60%);
 
 /* Color codes used for the site */
 $danger-color               : #e74c3c;
-$info-color                 : #1a2421;
+$info-color                 : #2d4a3e;
 $notice-color               : #a8e6cf;
 $success-color              : #2ecc71;
 $warning-color              : #f39c12;
