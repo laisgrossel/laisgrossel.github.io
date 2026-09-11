@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "About me"
+title: ""
 permalink: /
 author_profile: true
 redirect_from:
