@@ -1,13 +1,14 @@
 ---
 layout: single
-title: ""
+title: "Laís A. Grossel"
 permalink: /
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 header:
-  image: opiliones.JPG
+  overlay_image: opiliones.JPG
+  overlay_filter: rgba(26, 36, 33, 0.3)
   teaser: opiliones.JPG
 ---
 
