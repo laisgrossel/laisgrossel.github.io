@@ -38,6 +38,8 @@
     "layout/json_cv"
 ;
 
+@import "custom";
+
 /* Esconde o título do banner */
 .page__hero--overlay .page__title {
   display: none;
